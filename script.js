@@ -6,14 +6,14 @@ $(document).ready(function(){
         }
     })
      new Typed (".typing",{
-        strings:["Desenvolvedor","Biologo"],
+        strings:["Desenvolvedor","Protetor dos animais","Free-Lancer"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
     })
 
     new Typed (".typing-1",{
-        strings:["Desenvolvedor","Biologo"],
+        strings:["Desenvolvedor","Protetor dos animais","Free-Lancer"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
